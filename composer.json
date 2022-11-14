@@ -1,0 +1,17 @@
+{
+    "name": "froxx/test",
+    "autoload": {
+        "psr-4": {
+            "Froxx\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Kozlov",
+            "email": "103379782+RidiculousCircumstances@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "ridiculouscircumstances/sm-generator": "^1.0"
+    }
+}
